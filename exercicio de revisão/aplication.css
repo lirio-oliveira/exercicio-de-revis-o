@@ -1,0 +1,32 @@
+body{
+    background-color: blue;
+}
+
+h1{
+    color: white;
+    text-align: right;
+    float: right;
+}
+
+p{
+    color: white;
+}
+
+ul{
+    color: white
+}
+
+ol{
+    color: white
+}
+
+.seção3{
+    color: white;
+}
+
+.seção2{
+    color: white;
+}
+h4{
+    color: white;
+}
